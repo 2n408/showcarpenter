@@ -1,0 +1,4 @@
+古い Eclipse (Java1.8等)場合の注意
+Property で Java Build Path をチェック 1.8等にchangeが必要な場合もある
+Property で Java Compiler を見る Enable project specific settings を外して，
+Configure Workspace Settings をしたほうがよい
